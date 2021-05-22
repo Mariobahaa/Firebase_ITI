@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "895432047603",
+    "project_id": "fb-iti",
+    "storage_bucket": "fb-iti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895432047603:android:95386c6cf23995db9eb086",
+        "android_client_info": {
+          "package_name": "com.iti.fbmb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895432047603-ugfaeulimr9q1ebevlth9vcfj9jef39i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkDYeIvoOQ01wR4B638qoSTqJ2ARTggOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895432047603-ugfaeulimr9q1ebevlth9vcfj9jef39i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
